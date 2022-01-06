@@ -1,0 +1,95 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+* {
+  margin: 0.5rem;
+  padding: 0.5rem;
+}
+
+.person-img {
+  height: 400px;
+  width: 400px;
+}
+.btn {
+  text-decoration: none;
+
+  padding: 10px 40px;
+  background-color: #67568c;
+  color: wheat;
+  border-radius: 4px;
+}
+section {
+  display: flex;
+}
+.vertical {
+  height: 40px;
+  background-color: #ff6e6c;
+  margin: 2px;
+}
+.orange-color {
+  color: tomato;
+  font-size: 4rem;
+}
+h1 {
+  font-size: 4rem;
+}
+
+.left-border {
+  border-left: 8px solid #ff6e6c;
+}
+.mission-pic {
+  height: 150px;
+  height: 150px;
+}
+.picture-one {
+  height: 380px;
+  width: 380px;
+  border-radius: 30px;
+  background-color: thistle;
+}
+
+.picture-two {
+  height: 380px;
+  width: 380px;
+  border-radius: 30px;
+  background-color: #eaddcf;
+}
+
+.picture-three {
+  height: 380px;
+  width: 380px;
+  border-radius: 30px;
+  background-color: #abd1c6;
+}
+
+.pic-section {
+  display: flex;
+}
+
+.text-align {
+  text-align: center;
+}
+.codeing-pic {
+  height: 370px;
+  width: 370px;
+}
+.mid-heading {
+  font-weight: 900;
+}
+
+.corona-pic {
+  height: 500px;
+  width: 280px;
+}
+
+.color {
+  color: #ff6e6c;
+}
+
+.footer-sec {
+  background-color: #232946;
+  color: white;
+}
+.text-align {
+  text-align: center;
+}
